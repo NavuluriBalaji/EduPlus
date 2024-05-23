@@ -18,8 +18,8 @@
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/[your-username]/[repository-name].git`
-2. Navigate to the project directory: `cd [repository-name]`
+1. Clone the repository
+2. Navigate to the project directory
 3. Install the required dependencies (if any)
 4. Set up a local development environment for WordPress (e.g., using XAMPP, MAMP, or a similar tool)
 5. Import the project files into your local WordPress installation
